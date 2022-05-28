@@ -31,7 +31,7 @@
 </p>
 
 # Abstract
-During the last few years the fitness industry has experienced a significant decrease in revenue[^1] due to the pandemic.
+During the last few years the fitness industry has experienced a significant decrease in revenue due to the pandemic[^1].
 While many fitness employees were being laid off[^2], virtual training, home gyms and outdoor exercise became extremely popular[^1]. 
 </br></br>
 Based on this data, an assumption can be made that currently, the demand for fitness lessons from experienced instructors exceeds the supply.
