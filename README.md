@@ -32,10 +32,15 @@
 
 # Abstract
 During the last few years the fitness industry has experienced a significant decrease in revenue[^1] due to the pandemic.
-While many fitness employees were being laid off[^2]. Based on this data, there 
-For this project I have decided to create a cross-platform mobile app for fitness instructors and their potential clients.
+While many fitness employees were being laid off[^2] - virtual training, home gyms and outdoor exercise became extremely popular[^1]. 
+</br></br>
+Based on this data, an assumption can be made that demand for fitness lessons from experienced instructors exceeds the supply.
+This project's purpose is to provide jobs for fitness coaches, as well as to create an environment for ex gym members
+to communicate with professional fitness instructors.
+In order to achieve this goal, I have created a cross-platform mobile app for fitness instructors and their potential clients.
 The main function of the app is a lesson-builder fueature, which provides the users with an opportunity to specify the type 
-of fitness lessons they want to give/take. This information is then placed on a map based on the specified location as a pinpoint.
+of fitness lessons they want to give/take. To establish frictionless communication between user, this information, 
+combined with a link to its creator, is then placed on a map based on the specified location in the form of a pinpoint.
 The pinpoints are visible for all users and are located in the map view tab.
 
 
