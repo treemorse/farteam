@@ -39,7 +39,7 @@ This project's purpose is to provide jobs for fitness coaches, as well as to cre
 to communicate with professional fitness instructors.
 </br></br>
 In order to achieve this goal, I have created a cross-platform mobile app for fitness instructors and their potential clients.
-The main function of the app is a lesson-builder fueature, which provides the users with an opportunity to specify the type 
+The main function of the app is a lesson-builder feature, which provides the users with an opportunity to specify the type 
 of fitness lessons they want to give/take. To establish frictionless communication between users, this information, 
 combined with a link to its creator, is placed on a map based on the specified location in the form of a pinpoint.
 
