@@ -24,6 +24,8 @@ In order to achieve this goal, I have created a cross-platform mobile app for fi
 The main function of the app is a lesson-builder feature, which provides the users with an opportunity to specify the type 
 of fitness lessons they want to give/take. To establish frictionless communication between users, this information, 
 combined with a link to its creator, is placed on a map based on the specified location in the form of a pinpoint.
+</br></br>
+The app is soon to become a Farteam™[^3] product, thus no code will be provided due to the possibility of copyright infringement 
 
 # Table of contents
 1. [ Introduction. ](#intro) 
@@ -34,7 +36,7 @@ combined with a link to its creator, is placed on a map based on the specified l
 
 <a name="intro"></a>
 # Introduction
-According to the relevant fitness industry statistics, the predicted industry revenue of more than $100bn was not achieved due to gym closures around the world. A Nielsen survey[^3] concluded that approximately 80% of the adult population exercise or have the desire to exercise regularly. Due to the lack of gyms caused by the pandemic and with the help of technological improvements in internet connectivity and streaming, virtual fitness services such as Peloton are increasingly becoming very popular. Before the restrictions, the online fitness market was valued at $6bn and in 2027 its worth 
+According to the relevant fitness industry statistics, the predicted industry revenue of more than $100bn was not achieved due to gym closures around the world. A Nielsen survey[^4] concluded that approximately 80% of the adult population exercise or have the desire to exercise regularly. Due to the lack of gyms caused by the pandemic and with the help of technological improvements in internet connectivity and streaming, virtual fitness services such as Peloton are increasingly becoming very popular. Before the restrictions, the online fitness market was valued at $6bn and in 2027 its worth 
 is predicted to increase significantly, almost reaching $60bn dollars. 
 </br></br>
 Online fitness apps, however, lack *actually* useful feedback, experience and personal connection which professional fitness coaches can provide. A reasonable solution to this problem appears in the combination of the mobile app user experience and a personal fitness lesson given by an experienced instructor. 
@@ -51,7 +53,10 @@ The purpose of this project is to create a service which realizes the potential 
 >8. Deploy app
 
 <a name="review"></a>
-# Review
+# Review and comparative analysis
+The
+A thorough analysis of the fitness app market has shown that many mobile apps such as Strava™ or FitOn™ accomplish the job of motivating an
+
 
 <a name="primp"></a>
 # Project Implementation
@@ -63,4 +68,5 @@ The purpose of this project is to create a service which realizes the potential 
 # References 
 [^1]: [Wellness Creative Co.](https://www.wellnesscreatives.com/fitness-industry-statistics-growth/)
 [^2]: [Finances Online](https://financesonline.com/gym-membership-statistics/#:~:text=In%202019%2C%20American%20adults%20spent,memberships%20(Finder%2C%202020).)
-[^3]: [Nielsen survey](https://emduk.org/wp-content/uploads/2018/10/Consumer-fitness-trends-Nielsen-research-2013-exec-summary.pdf?x49114)
+[^3]: [Farteam](https://farteam.club/)
+[^4]: [Nielsen survey](https://emduk.org/wp-content/uploads/2018/10/Consumer-fitness-trends-Nielsen-research-2013-exec-summary.pdf?x49114)
