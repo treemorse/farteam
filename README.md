@@ -73,13 +73,30 @@ After conducting a research among the platforms of the first group, no eye-catch
 </br></br>
 Based on the analysis, the application will most likely do well, once deployed to the Play Store and App Store platforms.
 
-## Technology
-<img src="https://github.com/treemorse/farteam/blob/main/assets/Auth.jpg" align="left" width="512" height="326">
-WOW
-<br clear="left"/>
+## Requirements
+### Funcitonal
+1. Framework for cross-platform mobile app development
+>I have chosen to use `Flutter`, because it has comprehensible state-management libraries and it renders widgets at a very high speed. React Native was also one of the reasonable candidates, but it was a bit to complex for a MVP
+2. Map API
+>I have currently integrated `Yandex Maps` and `MapBox`, both seem to be good choices. MapBox allows unlimited requests for free, while Yandex Maps is very accurate in Russia, which is the starting which is the country, where the application will be released initially. Depending on the amount of money allocated for the MVP, one of the two will be chosen. For now it is Yandex Maps.
+3. Database for user data, lesson data, etc.
+> `Firebase` appears to be the sound choice, because it is a free-for-testing cloud solution, which is perfectly compatible with Flutter. It provides authentication methods, various kinds of storage and internal functionality for app deployment. It is perfect for a MVP.
+
+### Non-functional
+
+1. Verification document
+2. A Terms of Service document
+3. A General Agreement
+4. Contract for instructors
+
+>##### These non-functional requirements are being developed by a legal team.
 
 <a name="primp"></a>
 # Project Implementation
+
+<img src="https://github.com/treemorse/farteam/blob/main/assets/Auth.jpg" align="left" width="512" height="326">
+WOW
+<br clear="left"/>
 
 <a name="conc"></a>
 # Conclusion
