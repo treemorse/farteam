@@ -55,17 +55,18 @@ combined with a link to its creator, is placed on a map based on the specified l
 According to the relevant fitness industry statistics, the predicted industry revenue of more than $100bn was not achieved due to gym closures around the world. A Nielsen survey[^3] concluded that approximately 80% of the adult population exercise or have the desire to exercise regularly. Due to the lack of gyms caused by the pandemic and with the help of technological improvements in internet connectivity and streaming, virtual fitness services such as Peloton are increasingly becoming very popular. Before the restrictions, the online fitness market was valued at $6bn and in 2027 its worth 
 is predicted to increase significantly, almost reaching $60bn dollars. 
 </br></br>
-Online fitness apps, however, lack *actually* useful feedback, experience and personal connection which professional fitness coaches can provide. A reasonable solution to this problem appears in the combination of the mobile app user experience and a personal fitness lesson given by an experienced instructor. The purpose of this project is to create a service which realizes the potential of this combination. Initially, the service is supposed to be realized as a MVP. After receiving the necessary funding, the product will serve as a protoype for future development. Thus, the main goal is to create a MVP and present it to investors.
+Online fitness apps, however, lack *actually* useful feedback, experience and personal connection which professional fitness coaches can provide. A reasonable solution to this problem appears in the combination of the mobile app user experience and a personal fitness lesson given by an experienced instructor. 
+The purpose of this project is to create a service which realizes the potential of this combination. Initially, the service is supposed to be realized as a MVP. After receiving the necessary funding, the product will serve as a protoype for future development. Thus, the main goal is to create a MVP and present it to investors.
 </br></br>
-## Objectives:
-1. Assemble list of requirements
-2. Design app architecture
-3. Design UI
-4. Code the basis for future development
-5. Integrate DBs and APIs
-6. Implement functionality
-7. Test services
-8. Deploy app
+>## Objectives:
+>1. Assemble list of requirements
+>2. Design app architecture
+>3. Design UI
+>4. Code the basis for future development
+>5. Integrate DBs and APIs
+>6. Implement functionality
+>7. Test services
+>8. Deploy app
 
 <a name="review"></a>
 # Review
