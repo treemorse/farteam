@@ -121,6 +121,44 @@ The rows in the lessons collection contain all the information given by some use
 ### Hosting
 Hosting is automatically provided by Firestore. The application deployment process, which has been tested before is also very simple.
 
+### Models
+Due to the fact, that only authentication data is loaded into Firebase automatically, users and lessons have to be loaded manually.
+This is achieved by creating two classes, one for users and one for lessons.
+</br></br>
+The user class contains the following variables:
+1. UID (user ID)
+2. Email
+3. Bio (short description)
+4. Profile picture
+5. Phone number
+6. Document information (for instructors)
+7. Contacts (list of social networks)
+8. Followers (list of user IDs)
+9. Following (list of user IDs)
+10. Verification check (for instructors)
+
+It also has a method for verifying the account for instructors and a method for changing profile information or deleting the account.
+</br></br>
+The lesson class contains the following variables:
+1. UID (creator's ID)
+2. Location
+3. Description
+4. Type
+5. Time (length of the lesson)
+6. Price
+7. List of interested users
+
+The class also has a method for changing the lesson information, deploying the lesson to the database and deleting the lesson.
+
+## UI
+The application is built on multiple "screens", which are either stateless or statefull widgets.
+A Stateless widget doesn't react to the user's activity, while a statefull widget has the ability to change its properties.
+The user experience can be described as such:
+
+When the user opens the app, they are greeted with a sign-in screen. Since the user doesn’t yet have an account, they are forced 
+
+
+
 <a name="conc"></a>
 # Conclusion
 
