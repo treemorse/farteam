@@ -76,11 +76,11 @@ Based on the analysis, the application will most likely do well, once deployed t
 ## Requirements
 ### Funcitonal
 1. Framework for cross-platform mobile app development
->I have chosen to use `Flutter`, because it has comprehensible state-management libraries and it renders widgets at a very high speed. React Native was also one of the reasonable candidates, but it was a bit to complex for a MVP
+>I have chosen to use `Flutter`, because it has comprehensible state-management libraries and it renders widgets at a very high speed. React Native was also one of the reasonable candidates, but it was a bit to complex for a MVP.[^5]
 2. Map API
->I have currently integrated `Yandex Maps` and `MapBox`, both seem to be good choices. MapBox allows unlimited requests for free, while Yandex Maps is very accurate in Russia, which is the starting which is the country, where the application will be released initially. Depending on the amount of money allocated for the MVP, one of the two will be chosen. For now it is Yandex Maps.
+>I have currently integrated `Yandex Maps` and `MapBox`, both seem to be good choices. MapBox allows unlimited requests for free, while Yandex Maps is very accurate in Russia, which is the starting which is the country, where the application will be released initially. Depending on the amount of money allocated for the MVP, one of the two will be chosen. For now it is Yandex Maps.[^6][^7]
 3. Database for user data, lesson data, etc.
-> `Firebase` appears to be the sound choice, because it is a free-for-testing cloud solution, which is perfectly compatible with Flutter. It provides authentication methods, various kinds of storage and internal functionality for app deployment. It is perfect for a MVP.
+> `Firebase` appears to be the sound choice, because it is a free-for-testing cloud solution, which is perfectly compatible with Flutter. It provides authentication methods, various kinds of storage and internal functionality for app deployment. It is perfect for a MVP.[^8]
 
 ### Non-functional
 
@@ -89,7 +89,7 @@ Based on the analysis, the application will most likely do well, once deployed t
 3. A General Agreement
 4. Contract for instructors
 
->##### These non-functional requirements are being developed by a legal team.
+>##### These non-functional requirements are being developed by our legal team.
 
 <a name="primp"></a>
 # Project Implementation
@@ -107,3 +107,7 @@ WOW
 [^2]: [Finances Online](https://financesonline.com/gym-membership-statistics/#:~:text=In%202019%2C%20American%20adults%20spent,memberships%20(Finder%2C%202020).)
 [^3]: [Farteam](https://farteam.club/)
 [^4]: [Nielsen survey](https://emduk.org/wp-content/uploads/2018/10/Consumer-fitness-trends-Nielsen-research-2013-exec-summary.pdf?x49114)
+[^5]: [Flutter](https://flutter.dev/)
+[^6]: [Yandex Maps](https://yandex.ru/dev/maps/?p=realty)
+[^7]: [MapBox](https://docs.mapbox.com/api/overview/)
+[^8]: [Firebase](https://firebase.google.com/)
