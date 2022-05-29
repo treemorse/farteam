@@ -71,7 +71,7 @@ All popular freelance platforms can be divided into two groups:
 
 After conducting a research among the platforms of the first group, no eye-catching fitness-oriented freelance websites were found. Fitness instructors who are unable to work at a gym, mainly take orders on platforms from the second group. Since these platforms don’t belong to a certain category, there is no need in verifying the freelancers' professional skills before giving access to the platforms' services. The Farteam app, which is specifically designed as a platform for freelancing fitness coaches, guarantees high-quility services by verifying the instructors' identity and their experience in fitness.
 </br></br>
-Based on the analysis, the application will most likely do well, once deployed to the Play Market and App Store platforms.
+Based on the analysis, the application will most likely do well, once deployed to the Play Store and App Store platforms.
 
 ## Technology
 
