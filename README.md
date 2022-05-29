@@ -43,6 +43,26 @@ The main function of the app is a lesson-builder feature, which provides the use
 of fitness lessons they want to give/take. To establish frictionless communication between users, this information, 
 combined with a link to its creator, is placed on a map based on the specified location in the form of a pinpoint.
 
+# Table of contents
+1. [ Introduction. ](#intro) 
+2. [ Review. ](#review)
+3. [ Project Implementation. ](#primp)
+4. [ Conclusion. ](#conc)
+5. [ References. ](#ref)
 
+<a name="intro"></a>
+# Introduction
+
+<a name="review"></a>
+# Review
+
+<a name="primp"></a>
+# Project Implementation
+
+<a name="conc"></a>
+# Conclusion
+
+<a name="ref"></a>
+# References 
 [^1]: [Wellness Creative Co.](https://www.wellnesscreatives.com/fitness-industry-statistics-growth/)
 [^2]: [Finances Online](https://financesonline.com/gym-membership-statistics/#:~:text=In%202019%2C%20American%20adults%20spent,memberships%20(Finder%2C%202020).)
