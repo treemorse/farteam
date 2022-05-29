@@ -35,7 +35,7 @@ During the last few years the fitness industry has experienced a significant dec
 While many fitness employees were being laid off[^2], virtual training, home gyms and outdoor exercise became extremely popular[^1]. 
 </br></br>
 Based on this data, an assumption can be made that currently, the demand for fitness lessons from experienced instructors exceeds the supply.
-This project's purpose is to provide jobs for fitness coaches, as well as to create an environment for ex gym members
+This project's main goal is to provide jobs for fitness coaches, as well as to create an environment for ex gym members
 to communicate with professional fitness instructors.
 </br></br>
 In order to achieve this goal, I have created a cross-platform mobile app for fitness instructors and their potential clients.
@@ -55,7 +55,24 @@ combined with a link to its creator, is placed on a map based on the specified l
 According to the relevant fitness industry statistics, the predicted industry revenue of more than $100bn was not achieved due to gym closures around the world. A Nielsen survey[^3] concluded that approximately 80% of the adult population exercise or have the desire to exercise regularly. Due to the lack of gyms caused by the pandemic and with the help of technological improvements in internet connectivity and streaming, virtual fitness services such as Peloton are increasingly becoming very popular. Before the restrictions, the online fitness market was valued at $6bn and in 2027 its worth 
 is predicted to increase significantly, almost reaching $60bn dollars. 
 </br></br>
-Online fitness apps, however, lack *actually* useful feedback, experience and personal connection which professional fitness coaches can provide. A reasonable solution to this problem appears in the combination of the mobile app user experience and a personal fitness lesson given by an experienced instructor.
+Online fitness apps, however, lack *actually* useful feedback, experience and personal connection which professional fitness coaches can provide. A reasonable solution to this problem appears in the combination of the mobile app user experience and a personal fitness lesson given by an experienced instructor. The purpose of this project is to create a service which realizes the potential of this combination.
+</br></br>
+## Objectives:
+1. Assemble list of requirements
+> Some stuff
+2. Design app architecture
+> Some stuff
+3. Design UI
+> Some stuff
+4. Code the basis for future development
+> Some stuff
+5. Integrate DBs and APIs
+> Some stuff
+6. Implement functionality
+> Some stuff
+7. Test services
+> Some stuff
+8. Deploy app
 
 <a name="review"></a>
 # Review
