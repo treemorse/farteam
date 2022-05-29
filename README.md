@@ -54,6 +54,7 @@ The purpose of this project is to create a service which realizes the potential 
 
 <a name="review"></a>
 # Review and comparative analysis
+## Competition
 The Farteam mobile app as a product faces competition on the following two markets:
 </br>
 1. Fitness app market
@@ -68,7 +69,11 @@ All popular freelance platforms can be divided into two groups:
 1. For freelancers with specific skills
 2. For all types of freelancers
 
-After conducting a research among the platforms of the first group, no eye-catching fitness-oriented freelance websites were found. Fitness instructors who are unable to work at a gym, mainly take orders on platforms from the second group. Since these platforms don’t belong to a certain category, there is no need in verifying the freelancers' professional skills before giving access to the platforms' services.
+After conducting a research among the platforms of the first group, no eye-catching fitness-oriented freelance websites were found. Fitness instructors who are unable to work at a gym, mainly take orders on platforms from the second group. Since these platforms don’t belong to a certain category, there is no need in verifying the freelancers' professional skills before giving access to the platforms' services. The Farteam app, which is specifically designed as a platform for freelancing fitness coaches, guarantees high-quility services by verifying the instructors' identity and their experience in fitness.
+</br></br>
+As a result, the app will most likely do well, once deployed to the Play Market and App Store platforms.
+
+## Technology
 
 
 <a name="primp"></a>
