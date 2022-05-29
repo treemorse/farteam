@@ -127,15 +127,16 @@ This is achieved by creating two classes, one for users and one for lessons.
 </br></br>
 The user class contains the following variables:
 1. UID (user ID)
-2. Email
-3. Bio (short description)
-4. Profile picture
-5. Phone number
-6. Document information (for instructors)
-7. Contacts (list of social networks)
-8. Followers (list of user IDs)
-9. Following (list of user IDs)
-10. Verification check (for instructors)
+2. Username
+3. Email
+4. Bio (short description)
+5. Profile picture
+6. Phone number
+7. Document information (for instructors)
+8. Contacts (list of social networks)
+9. Followers (list of user IDs)
+10. Following (list of user IDs)
+11. Verification check (for instructors)
 
 It also has a method for verifying the account for instructors and a method for changing profile information or deleting the account.
 </br></br>
@@ -150,14 +151,21 @@ The lesson class contains the following variables:
 
 The class also has a method for changing the lesson information, deploying the lesson to the database and deleting the lesson.
 
-## UI
+## UI/UX
 The application is built on multiple "screens", which are either stateless or statefull widgets.
 A Stateless widget doesn't react to the user's activity, while a statefull widget has the ability to change its properties.
 The user experience can be described as such:
 
-When the user opens the app, they are greeted with a sign-in screen. Since the user doesn’t yet have an account, they are forced 
+When the user opens the app, they are greeted with a sign-in screen. The screen offers the user to enter their email and password. Since the user doesn’t yet have an account, they cannot sign in and are forced to taps on the sign-up button which is located lower. The button has a tap-funtion which builds the sign-up screen when triggered. To sign-up, the user must provide a username, an email address and a password. After tapping on the sign-up button, the user is sent to the mapscreen and can begin using the app. If a person forgets their password, there is a reset-password screen.
 
+<img src="https://github.com/treemorse/farteam/blob/main/assets/signup.png" align="left" width="300">
+<img src="https://github.com/treemorse/farteam/blob/main/assets/signin.png" align="left" width="300">
+<img src="https://github.com/treemorse/farteam/blob/main/assets/Reset.png" align="left" width="300">
+<br clear="left"/>
 
+Continuing the user experience, when the mapscreen is built, the user is met with many choices. First of all, the pinpoints on the map are fitness lesson suggestions. They appear in purple and pink colors. The purple pinpoint means, that it was created by one of the people that you follow, while the pink ones are created by some random people who live nearby.
+<img src="https://github.com/treemorse/farteam/blob/main/assets/signup.png" align="left" width="300">
+<br clear="left"/>
 
 <a name="conc"></a>
 # Conclusion
