@@ -31,8 +31,8 @@
 </p>
 
 # Abstract
-During the last few years the fitness industry has experienced a significant decrease in revenue due to the pandemic[^1].
-While many fitness employees were being laid off[^2], virtual training, home gyms and outdoor exercise became extremely popular[^1]. 
+During the last few years the fitness industry has experienced a significant decrease in revenue due to the pandemic[1].
+While many fitness employees were being laid off[2], virtual training, home gyms and outdoor exercise became extremely popular[1]. 
 </br></br>
 Based on this data, an assumption can be made that currently, the demand for fitness lessons from experienced instructors exceeds the supply.
 This project's purpose is to provide jobs for fitness coaches, as well as to create an environment for ex gym members
@@ -52,6 +52,7 @@ combined with a link to its creator, is placed on a map based on the specified l
 
 <a name="intro"></a>
 # Introduction
+According to the relevant fitness industry statistics, the predicted industry revenue of more than $100bn was not achieved due to gym closures around the world. A Nielsen survey[^3] concluded that approximately 80% of the adult population exercise or have the desire to exercise regularly.
 
 <a name="review"></a>
 # Review
@@ -66,3 +67,4 @@ combined with a link to its creator, is placed on a map based on the specified l
 # References 
 [^1]: [Wellness Creative Co.](https://www.wellnesscreatives.com/fitness-industry-statistics-growth/)
 [^2]: [Finances Online](https://financesonline.com/gym-membership-statistics/#:~:text=In%202019%2C%20American%20adults%20spent,memberships%20(Finder%2C%202020).)
+[^3]: [Nielsen survey](https://emduk.org/wp-content/uploads/2018/10/Consumer-fitness-trends-Nielsen-research-2013-exec-summary.pdf?x49114)
