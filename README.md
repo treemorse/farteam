@@ -65,7 +65,6 @@ Online fitness apps, however, lack *actually* useful feedback, experience and pe
 5. Integrate DBs and APIs
 6. Implement functionality
 7. Test services
-> Some stuff
 8. Deploy app
 
 <a name="review"></a>
