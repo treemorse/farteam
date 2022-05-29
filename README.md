@@ -162,18 +162,34 @@ When the user opens the app, they are greeted with a sign-in screen. The screen 
 <img src="https://github.com/treemorse/farteam/blob/main/assets/signin.png" align="left" width="300">
 <img src="https://github.com/treemorse/farteam/blob/main/assets/Reset.png" align="left" width="300">
 <br clear="left"/>
-
+</br>
 Continuing the user experience, when the mapscreen is built, the user is met with many choices. First of all, the pinpoints on the map are fitness lesson suggestions. They appear in purple and pink colors. The purple pinpoint means, that it was created by one of the people that you follow, while the pink ones are created by some random people who live nearby. When the users taps on some pinpoint, the viewlesson widget is built. If a user is interested in the lesson, they must press the like button which is located in the bottom-right corner of the widget. If the other party decides to take/give lessons from/to another party, thay are paired up and given eachothers nicknames. A nickname - is enough information to follow and message your instructor/student. 
 
-<img src="https://github.com/treemorse/farteam/blob/main/assets/mapview.png" align="left" width="300">
+<img src="https://github.com/treemorse/farteam/blob/main/assets/mapview.jpg" align="left" width="300">
 
-The lesson builder button is for creating lesson requests/offers. The profile button in the top right corner builds the profile screen. The "C" button opens the chat. The history button lets the user reflect on how many lessons they have taken. Finally, the buttons which are marked "P", are currently placeholders for future functionality.
+The lesson builder button is for creating lesson requests/offers.
+</br></br>
+The profile button in the top right corner builds the profile screen.
+</br></br>
+The "C" button opens the chat. 
+</br></br>
+The history button lets the user reflect on how many lessons they have taken. 
+</br></br>
+Finally, the buttons which are marked "P", are currently placeholders for future functionality.
 
 <br clear="left"/>
 
 <a name="conc"></a>
 # Conclusion
-The goal of this project was to create a MVP for a cross-platform mobile app. The final product is not very efficient and lacks a significant portion of functionality which was initially predicted in CP1. Nevertheless, this experience has given  
+To sum up, I would like to present a list of goals, which I was able to achieve. I have successfully:
+- created a cross-platform mobile app
+- integrated a cloud solution
+- designed a state-management system
+- implemented multiple APIs
+Overall, the main objectives of the project were achieved.
+
+The goal of this project was to create a MVP for a cross-platform mobile app. The final product is not very efficient and lacks a significant portion of functionality which was initially predicted in CP1. Nevertheless, during this project I have obtained some very useful skills and valuable experience, realized the hardships of working alone and understood the importance of time-management and project architecture.
+
 <a name="ref"></a>
 # References 
 [^1]: [Wellness Creative Co.](https://www.wellnesscreatives.com/fitness-industry-statistics-growth/)
