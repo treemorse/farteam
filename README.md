@@ -20,12 +20,12 @@ Based on this data, an assumption can be made that currently, the demand for fit
 This project's main goal is to provide jobs for fitness coaches, as well as to create an environment for ex gym members
 to communicate with professional fitness instructors.
 </br></br>
-In order to achieve this goal, I have created a cross-platform mobile app for fitness instructors and their potential clients.
+In order to achieve this goal, I have created a cross-platform mobile application for fitness instructors and their potential clients.
 The main function of the app is a lesson-builder feature, which provides the users with an opportunity to specify the type 
 of fitness lessons they want to give/take. To establish frictionless communication between users, this information, 
 combined with a link to its creator, is placed on a map based on the specified location in the form of a pinpoint.
 </br></br>
->###### The app is soon to become a Farteam™ product[^3]. Code will not be provided due to the possibility of copyright infringement.
+>###### The application is soon to become a Farteam™ product[^3]. Code will not be provided due to the possibility of copyright infringement.
 
 # Table of contents
 1. [ Introduction. ](#intro) 
@@ -39,7 +39,7 @@ combined with a link to its creator, is placed on a map based on the specified l
 According to the relevant fitness industry statistics, the predicted industry revenue of more than $100bn was not achieved due to gym closures around the world. A Nielsen survey[^4] concluded that approximately 80% of the adult population exercise or have the desire to exercise regularly. Due to the lack of gyms caused by the pandemic and with the help of technological improvements in internet connectivity and streaming, virtual fitness services such as Peloton are increasingly becoming very popular. Before the restrictions, the online fitness market was valued at $6bn and in 2027 its worth 
 is predicted to increase significantly, almost reaching $60bn dollars. 
 </br></br>
-Online fitness apps, however, lack *actually* useful feedback, experience and personal connection which professional fitness coaches can provide. A reasonable solution to this problem appears in the combination of the mobile app user experience and a personal fitness lesson given by an experienced instructor. 
+Online fitness applications, however, lack *actually* useful feedback, experience and personal connection which professional fitness coaches can provide. A reasonable solution to this problem appears in the combination of the mobile app user experience and a personal fitness lesson given by an experienced instructor. 
 The purpose of this project is to create a service which realizes the potential of this combination. Initially, the service is supposed to be realized as a MVP. After receiving the necessary funding, the product will serve as a protoype for future development. Thus, the main goal is to create a MVP and present it to investors.
 </br></br>
 >## Objectives:
@@ -71,7 +71,7 @@ All popular freelance platforms can be divided into two groups:
 
 After conducting a research among the platforms of the first group, no eye-catching fitness-oriented freelance websites were found. Fitness instructors who are unable to work at a gym, mainly take orders on platforms from the second group. Since these platforms don’t belong to a certain category, there is no need in verifying the freelancers' professional skills before giving access to the platforms' services. The Farteam app, which is specifically designed as a platform for freelancing fitness coaches, guarantees high-quility services by verifying the instructors' identity and their experience in fitness.
 </br></br>
-As a result, the app will most likely do well, once deployed to the Play Market and App Store platforms.
+Based on the analysis, the application will most likely do well, once deployed to the Play Market and App Store platforms.
 
 ## Technology
 
