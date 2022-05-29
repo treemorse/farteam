@@ -93,10 +93,33 @@ Based on the analysis, the application will most likely do well, once deployed t
 
 <a name="primp"></a>
 # Project Implementation
+## Architecture
+The application's backend is completely controlled by Firebase. This includes:
+1. Authentication methods
+2. Databases
+3. Hosting
 
-<img src="https://github.com/treemorse/farteam/blob/main/assets/Auth.jpg" align="left" width="512" height="326">
-WOW
+<img src="https://github.com/treemorse/farteam/blob/main/assets/Auth.jpg" align="left" width="384" height="244">
+
+### Authentication method
+The authentication process requires an email address and a password.
+</br>
+Any user can create an account, log in and reset their password.
+</br>
+Authentication data, which includes the user ID and their email is stored automatically
+
 <br clear="left"/>
+
+### Databases
+Only one type of database is used in the application: the Firestore Database. It contains two collections: 
+1. Users
+2. Lessons
+
+Each row in the users collection contains a user ID, a verification checker and the user's profile information.
+The rows in the lessons collection contain all the information given by some user, including the creators ID and an array of user IDs, which represents people who are interested in some particular lesson.
+
+### Hosting
+Hosting is automatically provided by Firestore. The application deployment process, which has been tested before is also very simple.
 
 <a name="conc"></a>
 # Conclusion
