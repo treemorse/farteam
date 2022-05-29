@@ -5,24 +5,9 @@
 </div>
 
 <p align="left">
-  <b> 
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    &emsp;&emsp;&emsp;&emsp;&emsp;
+  <b>
     Prepared by: Daniil Zondberg </br>
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    &emsp;&emsp;&emsp;&emsp;&emsp;
     Supervisor: Hadi Saleh </br>
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    &emsp;&emsp;&emsp;&emsp;&emsp;
     Date: May 28 2022
   </b>
 </p>
