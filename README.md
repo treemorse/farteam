@@ -52,7 +52,10 @@ combined with a link to its creator, is placed on a map based on the specified l
 
 <a name="intro"></a>
 # Introduction
-According to the relevant fitness industry statistics, the predicted industry revenue of more than $100bn was not achieved due to gym closures around the world. A Nielsen survey[^3] concluded that approximately 80% of the adult population exercise or have the desire to exercise regularly. Due to the lack of gyms caused by the pandemic and with the help of technological improvements in internet connectivity and streaming, virtual fitness services such as Peloton are increasingly becoming very popular. However
+According to the relevant fitness industry statistics, the predicted industry revenue of more than $100bn was not achieved due to gym closures around the world. A Nielsen survey[^3] concluded that approximately 80% of the adult population exercise or have the desire to exercise regularly. Due to the lack of gyms caused by the pandemic and with the help of technological improvements in internet connectivity and streaming, virtual fitness services such as Peloton are increasingly becoming very popular. Before the restrictions, the online fitness market was valued at $6bn and in 2027 its worth 
+is predicted to increase significantly, almost reaching $60bn dollars. 
+</br></br>
+Online fitness apps, however, lack *actually* useful feedback, experience and personal connection which professional fitness coaches can provide. A reasonable solution to this problem appears in the combination of the mobile app user experience and a personal fitness lesson given by an experienced instructor.
 
 <a name="review"></a>
 # Review
