@@ -25,7 +25,7 @@ The main function of the app is a lesson-builder feature, which provides the use
 of fitness lessons they want to give/take. To establish frictionless communication between users, this information, 
 combined with a link to its creator, is placed on a map based on the specified location in the form of a pinpoint.
 </br></br>
-The app is soon to become a Farteam™[^3] product, thus no code will be provided due to the possibility of copyright infringement 
+>###### The app is soon to become a Farteam™ product[^3]. Code will not be provided due to the possibility of copyright infringement
 
 # Table of contents
 1. [ Introduction. ](#intro) 
@@ -54,8 +54,13 @@ The purpose of this project is to create a service which realizes the potential 
 
 <a name="review"></a>
 # Review and comparative analysis
-The
-A thorough analysis of the fitness app market has shown that many mobile apps such as Strava™ or FitOn™ accomplish the job of motivating an
+The mobile app as a product faces competition on the following two markets:
+</br>
+1. Fitness app market
+2. Freelance market
+
+## Fitness apps
+A thorough analysis of the fitness app market has shown that many mobile apps such as Strava™ or FitOn™ accomplish the job of motivating their users by providing them with daily goals and opportunities to communicate with their friends through an integrated and conveniently simplified social network. These two features allow users to experience the thrills of competition and achievement, which are necessary emotions for fitness lovers. N
 
 
 <a name="primp"></a>
