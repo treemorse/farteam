@@ -68,7 +68,7 @@ All popular freelance platforms can be divided into two groups:
 1. For freelancers with specific skills
 2. For all types of freelancers
 
-After conducting an analysis among the platforms of the first group, no eye-catching fitness-oriented freelance websites were found. Fitness instructors who are unable to work at a gym mainly take orders on platforms from the second group. Since th
+After conducting a research among the platforms of the first group, no eye-catching fitness-oriented freelance websites were found. Fitness instructors who are unable to work at a gym, mainly take orders on platforms from the second group. Since these platforms don’t belong to a certain category, there is no need in verifying the freelancers' professional skills before giving access to the platforms' services.
 
 
 <a name="primp"></a>
