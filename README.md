@@ -74,7 +74,9 @@ After conducting a research among the platforms of the first group, no eye-catch
 Based on the analysis, the application will most likely do well, once deployed to the Play Store and App Store platforms.
 
 ## Technology
-<img src="https://github.com/treemorse/farteam/blob/main/assets/Auth.jpg" width="512" height="326">
+<img src="https://github.com/treemorse/farteam/blob/main/assets/Auth.jpg" align="left" width="512" height="326">
+WOW
+<br clear="left"/>
 
 <a name="primp"></a>
 # Project Implementation
