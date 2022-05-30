@@ -187,6 +187,7 @@ To sum up, I would like to present a list of goals, which I was able to achieve.
 - integrated a cloud solution
 - designed a state-management system
 - implemented multiple APIs
+
 Overall, the main objectives of the project were achieved.
 
 The goal of this project was to create a MVP for a cross-platform mobile app. The final product is not very efficient and lacks a significant portion of functionality which was initially predicted in CP1. Nevertheless, during this project I have obtained some very useful skills and valuable experience, realized the hardships of working alone and understood the importance of time-management and project architecture.
