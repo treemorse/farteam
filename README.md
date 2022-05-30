@@ -164,6 +164,7 @@ When the user opens the app, they are greeted with a sign-in screen. The screen 
 <br clear="left"/>
 </br>
 Continuing the user experience, when the mapscreen is built, the user is met with many choices. First of all, the pinpoints on the map are fitness lesson suggestions. They appear in purple and pink colors. The purple pinpoint means, that it was created by one of the people that you follow, while the pink ones are created by some random people who live nearby. When the users taps on some pinpoint, the viewlesson widget is built. If a user is interested in the lesson, they must press the like button which is located in the bottom-right corner of the widget. If the other party decides to take/give lessons from/to another party, thay are paired up and given eachothers nicknames. A nickname - is enough information to follow and message your instructor/student. 
+</br></br>
 
 <img src="https://github.com/treemorse/farteam/blob/main/assets/mapview.jpg" align="left" width="300">
 
