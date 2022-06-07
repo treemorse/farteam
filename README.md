@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Individual Programming Project Final Report</h1>
+  <h1>Individual Programming Project Final Report (version 1)</h1>
   <i>Cross-platform mobile app for fitness exercises</i>
   </br></br></br>
 </div>
